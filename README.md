@@ -16,8 +16,6 @@ django<br>
   </div>
 
 </div>
-For any problem , just feel free to contact with me through my mail . 
+<br>
+<h4>Any further query? just feel free to contact at (me@sayeedhossain.com) </h4>
 
-<h1>Author : </h1><br>
-<h3>Name : Sayeed Hossain</h3><br>
-<h3>Mail : sayeedhatim@gmail.com</h3>
